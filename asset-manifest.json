@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/twitch/static/css/main.7b2d9b3b.chunk.css",
+    "main.js": "/twitch/static/js/main.9e64c720.chunk.js",
+    "main.js.map": "/twitch/static/js/main.9e64c720.chunk.js.map",
+    "runtime-main.js": "/twitch/static/js/runtime-main.34cbe924.js",
+    "runtime-main.js.map": "/twitch/static/js/runtime-main.34cbe924.js.map",
+    "static/css/2.b00201c5.chunk.css": "/twitch/static/css/2.b00201c5.chunk.css",
+    "static/js/2.ce0f364b.chunk.js": "/twitch/static/js/2.ce0f364b.chunk.js",
+    "static/js/2.ce0f364b.chunk.js.map": "/twitch/static/js/2.ce0f364b.chunk.js.map",
+    "static/js/3.a142684d.chunk.js": "/twitch/static/js/3.a142684d.chunk.js",
+    "static/js/3.a142684d.chunk.js.map": "/twitch/static/js/3.a142684d.chunk.js.map",
+    "index.html": "/twitch/index.html",
+    "static/css/2.b00201c5.chunk.css.map": "/twitch/static/css/2.b00201c5.chunk.css.map",
+    "static/css/main.7b2d9b3b.chunk.css.map": "/twitch/static/css/main.7b2d9b3b.chunk.css.map",
+    "static/js/2.ce0f364b.chunk.js.LICENSE.txt": "/twitch/static/js/2.ce0f364b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34cbe924.js",
+    "static/css/2.b00201c5.chunk.css",
+    "static/js/2.ce0f364b.chunk.js",
+    "static/css/main.7b2d9b3b.chunk.css",
+    "static/js/main.9e64c720.chunk.js"
+  ]
+}
