@@ -1,5 +1,5 @@
-import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import React from "react"; //HashRouter//BrowserRouter
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import "antd/dist/antd.css";
 
 import Games from "./Games";

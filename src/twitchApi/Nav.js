@@ -5,10 +5,12 @@ import { AiOutlineHome } from "react-icons/ai";
 const Navbar = () => (
   <Menu className="nav" mode="horizontal">
     <Menu.Item icon={<AiOutlineHome />} className="nav_item">
-      <Link to="/">Hot games</Link>
+      <Link to="/" replace>
+        Hot games
+      </Link>
     </Menu.Item>
     <Menu.Item>
-      <Link to="/lol" className="nav_item">
+      <Link to="/lol" replace className="nav_item">
         Lol
       </Link>
     </Menu.Item>

@@ -5,6 +5,7 @@ body {
 
   margin: 0;
   padding: 0;
+  background-color: rgb(252, 241, 252);
 }
 h1,
 h3 {
@@ -32,11 +33,9 @@ h3 {
   background: rgba(0, 0, 0, 0.507);
 }
 .nav {
+  background-color: rgb(253, 249, 253);
   font-family: "Courier New", Courier, monospace;
   font-size: 1.5em;
   text-align: center;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-}
-.nav_item {
-  color: white;
 }

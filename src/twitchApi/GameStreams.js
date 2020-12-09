@@ -8,6 +8,8 @@ function GameStreams({ location, match }) {
 
   useEffect(() => {
     const fetchData = async () => {
+      console.log(location);
+      console.log(match);
       const result = await api.get(
         `https://api.twitch.tv/helix/streams?game_id=${location.state.gameID}`
       );
@@ -28,6 +30,7 @@ function GameStreams({ location, match }) {
     };
     fetchData();
   }, []);
+
   return (
     <div>
       <h1>{match.params.id} Streams</h1>
